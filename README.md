@@ -1,5 +1,5 @@
 # Social-Media-Analysis-Dashboard
-This repository contains the code and visualizations for a **PowerBI Dashboard** that integrates sentiment analysis, user engagement enhancement, and trend prediction across multiple social media platforms, including **Twitter**, **Instagram**, and **Facebook**. The goal of this project is to provide meaningful insights into user behavior, engagement, and sentiment across these platforms, allowing users and businesses to optimize their strategies for social media presence and interaction.
+This repository contains the code and visualizations for a **PowerBI Dashboard** that integrates sentiment analysis, user engagement enhancement, and trend prediction across multiple social media platforms, including **Twitter**, **Instagram**, and **Facebook**. The goal of this project is to provide meaningful insights into user behavior, engagement, and sentiment across these platforms, allowing users and businesses to optimize their strategies for social media presence and interaction. Link to pbix file: https://drive.google.com/file/d/1pY7ykoZQPkP2Tkx5lWot68d_YD7Yy-RR/view?usp=sharing
 
 ## Features
 
