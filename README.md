@@ -48,7 +48,6 @@ The trend analysis section delves into the engagement performance on Facebook:
    git clone https://github.com/yourusername/your-repo-name.git
    ```
 2. Open the PowerBI `.pbix` file to explore the interactive dashboard.
-3. To modify the data or code, refer to the **Python scripts** used for data preprocessing and model training.
 
 ## Future Enhancements
 
